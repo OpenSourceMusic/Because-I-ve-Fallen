@@ -1,6 +1,9 @@
 # Because-I-ve-Fallen
 Genre - Chiptune
 
+Song Name: Because I've Fallen
+Artist: Josh Penn-Pierson
+
 [Youtube Link](https://www.youtube.com/watch?v=7F8VQHpq2IA&index=23&list=PLye9mcKwe2zy3KW8uK_3F7HVMjJjdqSqU)
 
 Current Song Version: 1.0
